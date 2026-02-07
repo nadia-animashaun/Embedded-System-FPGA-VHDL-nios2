@@ -3,8 +3,6 @@
 
    This file is a portion of the original code supplied by Altera.
 
-   It has been adapted by N. Manjikian for use in ELEC 371 laboratory work.
-
    Various unnecessary or extraneous elements have been excluded. For
    example, declarations in C for external functions called from asm()
    instructions are not required because any reference to external names
@@ -145,3 +143,4 @@ void the_exception (void)
      will never be executed.
    */ 
 }
+
