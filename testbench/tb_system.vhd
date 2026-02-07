@@ -4,8 +4,6 @@
 --      sufficient to simulate system operation and
 --      allow observation of address/data/control lines
 --
--- Naraig Manjikian
--- September 2022
 -- ------------------------------------------------------
 
 library ieee;
