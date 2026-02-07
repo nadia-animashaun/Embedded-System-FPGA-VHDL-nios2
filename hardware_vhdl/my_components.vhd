@@ -2,8 +2,6 @@
 -- my_components.vhd: package file to provide component
 --             declarations for use in design hierarchy
 --
--- Naraig Manjikian
--- February 2012
 -- ------------------------------------------------------
 
 library ieee;
