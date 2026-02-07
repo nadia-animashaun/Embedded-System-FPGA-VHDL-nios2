@@ -2,7 +2,6 @@
   Simplified support code for performing analog-to-digital conversion
   using the Companion Board for the DE0 or DE0-CV
 
-  N. Manjikian, ECE Dept., Queen's University, November 2018
   -------------------------------------------------------------------*/
 
 /* prepare pointer symbols using appropriate memory-mapped I/O addresses */
@@ -88,4 +87,5 @@ unsigned int ADConvert (void)
 
   return result;   /* return the converted 8-bit unsigned value */
 }
+
 
