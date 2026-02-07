@@ -3,8 +3,6 @@
 --     of a processor and other elements;
 --     output signals allow for observation of operation
 --
--- Naraig Manjikian
--- February 2012; revised September 2022
 -- ------------------------------------------------------
 
 library ieee;
