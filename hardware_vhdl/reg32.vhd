@@ -1,8 +1,6 @@
 -- ------------------------------------------------------
 -- reg32.vhd: code for a 32-bit register with load enable
 --
--- Naraig Manjikian
--- February 2012
 -- ------------------------------------------------------
 
 library ieee;
