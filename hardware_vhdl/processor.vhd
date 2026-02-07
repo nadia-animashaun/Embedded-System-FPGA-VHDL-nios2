@@ -3,8 +3,6 @@
 -- implements a small subset of RISC-style instructions;
 -- maching encoding of instructions is based on Nios II
 --
--- Naraig Manjikian
--- February 2012
 -- ------------------------------------------------------
 
 library ieee;
