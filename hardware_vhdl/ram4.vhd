@@ -5,8 +5,6 @@
 --           address should be left out of the input to
 --           this entity
 --
--- Naraig Manjikian
--- August 2012
 -- ------------------------------------------------------
 
 library ieee;
