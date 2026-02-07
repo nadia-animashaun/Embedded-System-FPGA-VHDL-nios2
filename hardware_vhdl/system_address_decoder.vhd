@@ -2,8 +2,6 @@
 -- system_address_decoder.vhd: customized logic for
 --     enabling/selecting memory or I/O elements
 --
--- Naraig Manjikian
--- September 2022
 -- ------------------------------------------------------
 
 library ieee;
