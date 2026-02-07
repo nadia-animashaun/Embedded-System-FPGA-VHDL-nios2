@@ -1,8 +1,5 @@
 -- ------------------------------------------------------
 -- decoder_2to4.vhd: implements a 2-to-4 decoder
---
--- Naraig Manjikian
--- August 2012
 -- ------------------------------------------------------
 
 library ieee;
@@ -33,3 +30,4 @@ y_out <=   "0001" when (x_in = "00")
       else "1000"; --  (x_in = "11")
 
 end architecture;
+
